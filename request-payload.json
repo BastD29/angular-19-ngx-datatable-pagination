@@ -1,0 +1,81 @@
+{
+  "data": {
+    "label": {
+      "de": {
+        "title": "City Pop Altstetten",
+        "description": "City Pop Altstetten befindet sich im Herzen von Altstetten, dem pulsierenden und supercoolen Stadtteil von Zürich. Ein Standort, der von einer Vielzahl von Annehmlichkeiten umgeben und perfekt mit allen Sehenswürdigkeiten der Stadt verbunden ist. Das modern gestaltete Gebäude besteht aus 130 Pops unterschiedlicher Größe und wurde 2021 komplett renoviert.\nAb 2022 kannst du an diesem Ort die wunderbare Gesellschaft der anderen Tribe-Mitglieder und deiner Freunde im Garten und auf der herrlichen Dachterrasse genießen. Aber nicht nur das, im Erdgeschoss findest du ein Restaurant mit einer Gemeinschaftsküche, für ein Abendessen in letzter Minute oder wenn du ein Abendessen mit deinen Freunden organisieren möchtest. "
+      },
+      "en": {
+        "title": "City Pop Altstetten",
+        "description": "City Pop Altstetten is located in the heart of Zurich's vibrant and super-cool Altstetten district. A location surrounded by a multitude of amenities and perfectly connected to all points of interest in the city. The modernly designed building consists of 130 Pops of different sizes and was completely renovated in 2021.\nStarting from 2022 in this location you will enjoy the wonderful company of other Tribe members and your friends in the garden and on the magnificent roof terrace. But not only that, on the ground floor you will find a restaurant with a co-kitchen, for a last minute dinner or for when you want to organise a dinner with your friends."
+      },
+      "fr": {
+        "title": "City Pop Altstetten",
+        "description": "City Pop Altstetten est situé au cœur d'Altstetten, le quartier dynamique et super cool de Zurich. Un emplacement entouré d'une multitude de commodités et parfaitement relié à tous les points d'intérêt de la ville. Le bâtiment au design moderne se compose de 130 Pops de différentes tailles et a été entièrement rénové en 2021.\nÀ partir de 2022, vous pourrez profiter de la merveilleuse compagnie des autres membres de la Tribu et de vos amis dans le jardin et sur la magnifique terrasse du toit. Mais ce n'est pas tout, au rez-de-chaussée vous trouverez un restaurant avec une cuisine commune, pour un dîner de dernière minute ou lorsque vous voulez organiser un dîner avec vos amis."
+      },
+      "it": {
+        "title": "City Pop Altstetten",
+        "description": "City Pop Altstetten si trova nel cuore di Altstetten, quartiere vibrante e super cool di Zurigo. Una location attorniata da una moltitudine di servizi e perfettamente collegata a tutti i punti di interesse della città. L'edificio dal design moderno è composto da 130 Pop di diverse taglie ed è stato completamente restaurato nel 2021.\nA partire dal 2022 in questa location potrai godere della meravigliosa compagnia degli altri membri della Tribe e dei tuoi amici nel giardino e sulla magnifica terrazza sul tetto. Ma non solo, al piano terra troverai un ristorante con una cucina comune, per una cena dell'ultimo minuto o per quando vuoi organizzare una cena con i tuoi amici."
+      }
+    },
+    "city_uuid": "d2ab80e4-fe59-40c3-88c7-dc6b0c13cd70",
+    "street_name": "Street Name",
+    "street_number": "23",
+    "zip_code": "8000",
+    "active": true,
+    "latitude": 47.376888,
+    "longitude": 8.541694,
+    "floors": 5,
+    "bookable_from": "2021-09-20",
+    "max_stay_weeks": 52,
+    "min_stay_weeks": 4,
+    "checkin_time": {
+      "from": "17:00",
+      "to": "19:00"
+    },
+    "checkout_time": {
+      "from": "10:00",
+      "to": "12:00"
+    },
+    "exivo_site_uuid": "0dfddb6b-f0a7-4379-908b-1130f7ba5d9c",
+    "deposit": 200,
+    "final_cleaning": 150,
+    "currency": "CHF",
+    "vat_apartments": 3.7,
+    "additional_vat_apartments": 6,
+    "additional_vat_apartments_from": "2024-01-01",
+    "vat_services": 7.7,
+    "additional_vat_services": 8.1,
+    "additional_vat_services_from": "2024-01-01",
+    "vat_utilities": 5,
+    "vat_media_entertainment": 6,
+    "city_tax": 10,
+    "multiplier": "Room",
+    "visit_forbidden_dates": ["3", "5", "6"],
+    "visit_penalty": 50,
+    "visit_time_slots": [
+      "12:00-12:20",
+      "12:30-12:50",
+      "13:00-13:20",
+      "13:30-13:50",
+      "17:00-17:20",
+      "17:30-17:50",
+      "18:00-18:20",
+      "18:30-18:50",
+      "19:00-19:20",
+      "19:30-19:50",
+      "20:00-20:20",
+      "20:30-20:50",
+      "21:00-21:20"
+    ],
+    "signed_by": "732c0b93-d4fb-4875-b18e-0c57444c6575",
+    "emergency_contact": "+39123456",
+    "type": "Dormakaba",
+    "owner_uuid": "63c047ad-5cda-4003-9c7e-0c628b3ab988",
+    "invoice_code": "1",
+    "notification_day": null,
+    "email_ref": "asd@asd.it",
+    "tax_days": 0,
+    "tourist_tax": 10
+  }
+}
